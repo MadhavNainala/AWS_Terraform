@@ -1,6 +1,6 @@
 # S3 bucket name
 variable "bucket-name" {
-  default = "aws_terraform"
+  default = "terraform-cloudfront-s3"
 }
 
 # Domain name that you have registered
