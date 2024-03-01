@@ -4,5 +4,6 @@
 .terraform/
 .DS_Store
 .vscode/
+.terraform.lock.hcl
 
 .terraform.lock.hcl
